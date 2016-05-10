@@ -5,4 +5,5 @@
 ---
 
 ##### Button text 默认大写
-`android:textAllCaps="false"`
+<!-- lang:xml -->
+	android:textAllCaps="false"
