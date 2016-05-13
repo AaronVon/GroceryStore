@@ -6,6 +6,8 @@
 	* [加密](/content/OSX/encryption/index.md)
 	* [Lauchpad](/content/OSX/launchpad/index.md)
 * [iOS](/content/iOS/index.md)
+	* [backup](/content/iOS/backup/index.md)
 * [Linux](/content/Linux/index.md)
 * [Android](/content/Android/index.md)
+	* [xml](/content/Android/xml/index.md)
 * [Windows](/content/Windows/index.md)
