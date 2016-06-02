@@ -10,4 +10,5 @@
 * [Linux](/content/Linux/index.md)
 * [Android](/content/Android/index.md)
 	* [xml](/content/Android/xml/index.md)
+	* [ADB](/content/Android/adb/index.md)
 * [Windows](/content/Windows/index.md)
