@@ -12,3 +12,4 @@
 	* [xml](/content/Android/xml/index.md)
 	* [ADB](/content/Android/adb/index.md)
 * [Windows](/content/Windows/index.md)
+	* [效率配置](/content/Windows/efficiency/index.md)
