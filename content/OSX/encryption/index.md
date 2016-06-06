@@ -54,7 +54,8 @@
 <!--lang:bash-->
 	$ hdiutil segment -segmentSize 1g -encryption AES-128 -o <prefixname> /path/input.dmg
 
-**PS: 若需要分割之后的 DMG 文件也加密，则需要带入 `-encryption` 参数。与分割之前的文件加密与否无关。**
+**PS: 若需要分割之后的 DMG 文件也加密，则需要带入 `-encryption` 参数。与分割之前的文件加密与否无关。<br>
+PPS: 每一切割 DMG 都需要单独设置一个密码，所以当切割文件太多时，需重复输入密码。**
 
 <br>
 
