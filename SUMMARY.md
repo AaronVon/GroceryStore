@@ -8,6 +8,7 @@
 * [iOS](/content/iOS/index.md)
 	* [backup](/content/iOS/backup/index.md)
 * [Linux](/content/Linux/index.md)
+	* [常用命令](/content/Linux/command_line/index.md)
 * [Android](/content/Android/index.md)
 	* [xml](/content/Android/xml/index.md)
 	* [ADB](/content/Android/adb/index.md)
