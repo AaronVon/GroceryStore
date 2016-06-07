@@ -2,6 +2,8 @@
 
 ### du 
 
+---
+
 > display disk usage statistics
 
 <!--lang:bash-->
@@ -18,3 +20,14 @@
 	
 <!--lang:bash-->
 	$ du -a ~/ | sort -rn # 由大到小输出 home 路径下所有文件大小
+	
+<br>
+
+### df
+
+---
+
+> display free disk space
+
+<!--lang:bash-->
+	$ df -H # 显示当前系统所挂载设备磁盘信息
