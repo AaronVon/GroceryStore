@@ -1,10 +1,10 @@
 # Summary
 
-* [OS X](/content/OSX/index.md)
-	* [截图技巧](/content/OSX/screenshoot/index.md)
-	* [Geek Dock](/content/OSX/dock/index.md)
-	* [加密](/content/OSX/encryption/index.md)
-	* [Lauchpad](/content/OSX/launchpad/index.md)
+* [macOS](/content/macOS/index.md)
+	* [截图技巧](/content/macOS/screenshoot/index.md)
+	* [Geek Dock](/content/macOS/dock/index.md)
+	* [加密](/content/macOS/encryption/index.md)
+	* [Lauchpad](/content/macOS/launchpad/index.md)
 * [iOS](/content/iOS/index.md)
 	* [backup](/content/iOS/backup/index.md)
 * [Linux](/content/Linux/index.md)
