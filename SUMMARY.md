@@ -6,6 +6,7 @@
 	* [加密](/content/macOS/encryption/index.md)
 	* [Lauchpad](/content/macOS/launchpad/index.md)
 	* [外挂磁盘](/content/macOS/diskutil/index.md)
+	* [图片处理](/content/macOS/imageprocess/index.md)
 * [iOS](/content/iOS/index.md)
 	* [backup](/content/iOS/backup/index.md)
 * [Linux](/content/Linux/index.md)
