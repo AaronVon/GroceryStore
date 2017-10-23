@@ -14,3 +14,8 @@
 	> Demo: adb pull /sdcard/file.a ~/
 	
 	$ adb push <local> <remote>
+	
+#### ADB reference
+
+[adb commands reference](https://developer.android.com/studio/command-line/adb.html#IntentSpec)
+
